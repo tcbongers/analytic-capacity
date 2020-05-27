@@ -1,0 +1,42 @@
+--> cantor
+Generation 0
+Lower bound = 0.5
+Upper bound = 0.5
+Error bound = 0
+ans =
+   0.50000000000000   0.50000000000000
+ans =
+ 0
+Generation 1
+Lower bound = 0.44436
+Upper bound = 0.44468
+Error bound = 0.00032686
+ans =
+   0.44435799703163   0.44468486000470
+ans =
+   0.03100000000000
+Generation 2
+Lower bound = 0.40424
+Upper bound = 0.40455
+Error bound = 0.00030664
+ans =
+   0.40424445728657   0.40455110205012
+ans =
+   1.18700000000000
+Generation 3
+Lower bound = 0.37355
+Upper bound = 0.37383
+Error bound = 0.00028345
+ans =
+   0.37355100888291   0.37383445655398
+ans =
+  73.99800000000000
+Generation 4
+Lower bound = 0.34905
+Upper bound = 0.34931
+Error bound = 0.00026485
+ans =
+   0.34904746779666   0.34931231781984
+ans =
+ 7165.28099999999995
+
